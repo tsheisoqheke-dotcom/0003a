@@ -15,9 +15,6 @@ main {
   gap: 3px;
 }
 
-main div {
-  background-color: rgb(178, 201, 46);
-}
 ul {
   list-style-type: none;
   padding: 0;
@@ -34,4 +31,7 @@ p {
   display: flex-box;
   flex-direction: row;
   text-align: center;
+}
+main div {
+  background-color: #96ec5d;
 }
